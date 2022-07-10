@@ -8,6 +8,15 @@ Coding Cyphers is an interactive platform which cater to Students and Teachers f
 - The Output of the Practical code before submission is tested therefore no need for attaching any Output proof for submission.
 - Students can also practise problems and achieve points that will take them closer to the Leaderboard.
 - Firebase authentication is used and Firebase Firestore is used for storing data with respect to class and subject.
+- Suggestion can also be given by Teachers and Students to provide a constant feedback to better the Website.
+
+## Snapshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66682716/178157583-27d47baa-6e29-4499-aa69-1cc95a42723e.png" alt="Flutter" height="150" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/66682716/178157643-edf10cbb-d131-4404-abc7-1dc267696bad.png" alt="Flutter" height="150" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/66682716/178157670-a8be240a-d6cc-4d7a-a3da-f81a1411698b.png" alt="Flutter" height="150" style="vertical-align:top; margin:4px">
+
+</p>
 
 ## Languages, Frameworks and Tools
 
